@@ -1,0 +1,5 @@
+
+streamlit
+pymupdf
+google-genai==1.55.0
+pydantic==2.11.7
